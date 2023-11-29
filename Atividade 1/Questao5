@@ -14,4 +14,7 @@ printf ("Fim do laco !\n") ;
 return 0;
 }
 
-vai sair 2, 200, e Fim do laco
+vai sair:
+          2
+          200
+          Fim do laco!
