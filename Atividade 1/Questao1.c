@@ -4,8 +4,8 @@
 #include <stdio.h>
 
 int main () {
-  int vetOg[n], vetInv[n];
   int x, y, n;
+  int vetOg[n], vetInv[n];
 
   printf("Informe o numero de vetores: ");
   scanf("%d", &n);
