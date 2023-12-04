@@ -26,10 +26,10 @@ int main() {
     setlocale(LC_ALL, "portuguese");
     float lado, are, peri;
 
-    printf("Qual é o tamanho do lado do hexágano? ");
+    printf("Informe o tamanho do lado do hexágano: ");
     scanf("%f", &lado);
 
-    calcula_hexagono(lado, &are, &peri);
+    CalHex(lado, &are, &peri);
 
     printf("A área do hexágano %.3f e perímetro %.2f", are, peri);
 
