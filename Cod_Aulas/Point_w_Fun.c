@@ -10,3 +10,5 @@ int main(void) {
     printf("%d", numero);
     return 0;
 }
+
+//Quando o "++" vem depois do "num" o resultado será 5 e não 6, porque o computador lê o código neste sentido ->
