@@ -1,0 +1,5 @@
+int *vetor = (int *) malloc(tamanho * sizeof(int)); //alocar espaço na memoria dinamicamnete
+
+ou
+
+int *vetor = (int *) calloc(tamanho, sizeof(int)); //calloc inicializa seu vetor com zero
