@@ -4,4 +4,6 @@ char *ponteiro_char
 int **ponteiro_ponteiro_int; // Ponteiro para ponteiroi
 int (*ponteiro)(int) = incremento; // Ponteiro para função
 
+union é para utilizar uma das variaveis (quando tem duas ou mais)
+
 realloc // possivel mudar tamanho do vetor
