@@ -14,5 +14,6 @@ if(fp == NULL){
     printf("Arquivo foi criado\n");
 }
 
+fclose(fp); // Fecha o arquivo
     return 0;
 }
