@@ -6,7 +6,7 @@ int main(void){
 
 FILE* fp;
 fp = fopen("entrada.txt","wt"); //Cria
-// fp = fopen("entrada.txt","rt"); Abre o arquivo de texto
+// fp = fopen("entrada.txt","rt"); Lê o arquivo de texto
 if(fp == NULL){
   printf("Erro na abertura do arquivo\n");
   exit(1);
