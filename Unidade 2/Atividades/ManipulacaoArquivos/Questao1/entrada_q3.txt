@@ -1,0 +1,8 @@
+Amanda\t7.0\t6.5\t9.0\n
+Alberto\t5.0\t7.0\t3.5\n
+Jane\t8.0\t6.8\t4.5\n
+Igor\t9.0\t9.0\t8.5\n
+Samara\t10.0\t10.0\t7.0\n
+Maria Luiza\t10.0\t10.0\t10.0\n
+Cesar\t10.0\t9.0\t8.0\n
+Pedro Felipe\t7.0\t7.0\t7.0\n
