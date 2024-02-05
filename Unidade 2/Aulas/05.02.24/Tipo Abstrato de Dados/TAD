@@ -1,0 +1,7 @@
+/*  TAD: Tipo Abstrato de Dados  */
+
+/*  TAD: Novo tipo (struct) + conjunto de operações  */
+
+#include <stdio.h>
+#include <stdlib.h>
+
