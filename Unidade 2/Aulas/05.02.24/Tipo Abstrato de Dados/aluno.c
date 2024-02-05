@@ -27,6 +27,3 @@ Aluno* recebe_dados(void){
     
     return estudante;
 }
- int main(void){
-
- }
