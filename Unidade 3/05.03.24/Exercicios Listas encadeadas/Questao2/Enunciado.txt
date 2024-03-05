@@ -1,0 +1,1 @@
+Implemente uma função que tenha como valor de retorno o ponteiro para o último nó de uma listaencadeada. Essa função deve obedecer ao protótipo Lista * utimo(lista * l);
