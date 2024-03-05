@@ -1,0 +1,1 @@
+1) considere listas encadeadas de valores inteiros e implemente uma função para retornar o número de nós da lista que possuem o campo info com valore maiores do que n. Essa função deve obedecer ao prototipo: int maiores(Lista *l, int n);
