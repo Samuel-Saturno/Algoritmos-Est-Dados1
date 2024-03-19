@@ -67,3 +67,14 @@ int ConsutaFila(Fila * Q, int * elem){
       return 1;
    }
 }
+
+int main(){
+   printf("========================\n");
+   printf("           MENU         ");
+   printf("========================\n\n");
+   printf("1 - Adicionar elemento\n");
+   printf("2 - Destruir elemento\n");
+   printf("3 - Inserir elemento\n");
+   printf("4 - Remover fila\n");
+   printf("5 - Consulta fila\n");
+}
